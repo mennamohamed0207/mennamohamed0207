@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋,I am Menna Mohamed
+### A Student in Computer Enginnering 
+- 📫 How to reach me: menamohamed0207@gmail.com
+## Languages and Tools:
+<img src="https://img.shields.io/badge/Arduino-Uno-blue?logo=arduino&logoColor=white">
+
+
+
+
 
 <!--
 **mennamohamed0207/mennamohamed0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
