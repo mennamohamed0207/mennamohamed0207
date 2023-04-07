@@ -1,8 +1,7 @@
 ### Hi there 👋,I am Menna Mohamed
 ### A Student in Computer Enginnering 
 - 📫 How to reach me: menamohamed0207@gmail.com
-## Languages and Tools:
-<img src="https://img.shields.io/badge/Arduino-Uno-blue?logo=arduino&logoColor=white">
+
 
 
 
