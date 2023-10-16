@@ -1,5 +1,5 @@
 # Hi there 👋,I am Menna Mohamed
-## A Student in Computer Enginnering 
+## A Student in Computer Enginnering at Cairo University
 ![image](https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif)
 
 
