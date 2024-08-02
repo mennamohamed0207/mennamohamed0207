@@ -7,7 +7,7 @@
 - Here is my CV [link](https://drive.google.com/file/d/1wKpkFRLQBiBWQYFYoCnT--nDyHxKO7lC/view?usp=sharing) 
 
 # Languages and tools
-![image](https://user-images.githubusercontent.com/90017398/232884347-3ab40e59-4e84-4f71-85c7-76e5ccc40661.png)
+![Arduino](https://user-images.githubusercontent.com/90017398/232884347-3ab40e59-4e84-4f71-85c7-76e5ccc40661.png)
 ![image](https://user-images.githubusercontent.com/90017398/232884410-5ba8d8c7-4c91-4a6d-a8b8-eb57f210fc7a.png)
 ![image](https://user-images.githubusercontent.com/90017398/232884543-06921cfd-7295-4dd8-bec0-578d30f57485.png)
 ![image](https://user-images.githubusercontent.com/90017398/232884672-ad023486-aa32-41c1-95fc-1dba0e968224.png) 
@@ -26,11 +26,11 @@
 [![committers.top badge](https://user-badge.committers.top/egypt_public/mennamohamed0207.svg)](https://user-badge.committers.top/egypt_public/mennamohamed0207)
 
 
-![Menna's github stats](https://github-readme-stats.vercel.app/api?username=mennamohamed0207&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Menna's github stats](https://github-readme-stats.vercel.app/api?username=mennamohamed0207&show_icons=true&title_color=000&icon_color=79ff97&text_color=9f9f9f&bg_color=ffffff)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mennamohamed0207&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mennamohamed0207&theme=light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennamohamed0207&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennamohamed0207&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
