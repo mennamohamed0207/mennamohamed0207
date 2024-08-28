@@ -1,6 +1,8 @@
 # Hi there 👋,I am Menna Mohamed Abdelbaset
 ## A Student in Computer Engineering at Cairo University
-![image](https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif)
+![image](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e)
+
+
 
 
 - 📫 How to reach me: menamohamed0207@gmail.com
