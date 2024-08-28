@@ -1,5 +1,6 @@
-# Hi there 👋,I am Menna Mohamed Abdelbaset
-## A Student in Computer Engineering at Cairo University
+# Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px"/>
+# I am Menna Mohamed Abdelbaset
+# A Computer Engineering Student at Cairo University
 ![image](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e)
 
 
