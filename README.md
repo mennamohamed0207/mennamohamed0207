@@ -19,9 +19,14 @@
 ![image](https://user-images.githubusercontent.com/90017398/232885110-af721261-e951-4f10-b196-3b541f3941fd.png)
 ![image](https://user-images.githubusercontent.com/90017398/232885332-8076f114-4bdd-4fac-942b-dd4164136227.png) <br>
 ![image](https://user-images.githubusercontent.com/90017398/232886300-f859eb91-f306-4bf5-ae45-10eb35a4e86a.png)
-![image](https://user-images.githubusercontent.com/90017398/232886365-ae7e61a4-6f99-40d3-b3c0-15de7cff6530.png)
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="70px" />
 ![image](https://github.com/mennamohamed0207/mennamohamed0207/assets/90017398/032fe516-fc17-4966-b122-9ebcad40b592)
 ![image](https://github.com/mennamohamed0207/mennamohamed0207/assets/90017398/0dad2643-b515-49aa-80e1-6bab57246c3f)
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" alt="Angular" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JS" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="NodeJs" width="50px" />
+
 
 
 
