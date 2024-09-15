@@ -32,6 +32,7 @@
 
 # Stats on GitHub
 [![committers.top badge](https://user-badge.committers.top/egypt_public/mennamohamed0207.svg)](https://user-badge.committers.top/egypt_public/mennamohamed0207)
+[![](https://visitcount.itsvg.in/api?id=mennamohamed0207&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ![Menna's github stats](https://github-readme-stats.vercel.app/api?username=mennamohamed0207&show_icons=true&theme=transparent)
