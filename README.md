@@ -9,7 +9,7 @@
 - 📫 How to reach me: menamohamed0207@gmail.com
 - Here is my CV [link](https://drive.google.com/file/d/1wKpkFRLQBiBWQYFYoCnT--nDyHxKO7lC/view?usp=sharing) 
 
-# Languages and tools
+# Languages and Tools
 ![Arduino](https://user-images.githubusercontent.com/90017398/232884347-3ab40e59-4e84-4f71-85c7-76e5ccc40661.png)
 ![image](https://user-images.githubusercontent.com/90017398/232884410-5ba8d8c7-4c91-4a6d-a8b8-eb57f210fc7a.png)
 ![image](https://user-images.githubusercontent.com/90017398/232884543-06921cfd-7295-4dd8-bec0-578d30f57485.png)
