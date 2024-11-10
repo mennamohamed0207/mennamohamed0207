@@ -7,7 +7,7 @@
 
 
 - 📫 How to reach me: menamohamed0207@gmail.com
-- Here is my CV [link](https://drive.google.com/file/d/1wKpkFRLQBiBWQYFYoCnT--nDyHxKO7lC/view?usp=sharing) 
+- Here is my CV [link](https://drive.google.com/drive/u/0/folders/1vU_JBoNKGiVs7ubyc2NlTyRYL379qTNj)
 
 # Languages and Tools
 <p align="left">
